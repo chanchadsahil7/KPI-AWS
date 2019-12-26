@@ -46,7 +46,7 @@ tabulate==0.7.5
 termcolor==1.1.0
 uritemplate==3.0.0
 urllib3==1.21.1
-waitress==1.0.2
+waitress==1.4.1
 wcwidth==0.1.7
 websocket-client==0.40.0
 whitenoise==3.2.2
